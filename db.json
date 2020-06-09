@@ -2,7 +2,7 @@
   "program": [
     { "id": 1, "title": "DoWhatISay" },
     { "id": 2, "title": "PhysicIsFun" },
-    { "id": 3, "title": "EnglishIsFun" }
+    { "id": 3, "title": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
