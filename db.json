@@ -1,8 +1,7 @@
 {
   "program": [
     { "id": 1, "title": "DoWhatISay" },
-    { "id": 2, "title": "PhysicIsFun" },
-    { "id": 3, "title": "EnglishIsFun" }
+    { "id": 2, "title": "PhysicIsFun" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
