@@ -1,6 +1,6 @@
 {
   "program": [
-    { "id": 1, "title": "DoWhatISay" },
+    { "id": 1, "title": "DoWhatISay", "open": 0 },
     { "id": 2, "title": "PhysicIsFun" },
     { "id": 3, "title": "EnglishIsFun" }
   ],
