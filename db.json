@@ -9,7 +9,7 @@
     { "id": "port", "body": "22500"}
   ],
   "englishisfun": [
-    {"id": 1,"title": "Daily Word"}
-    {"id": 2,"title": "Grammar"}
+    { "id": 1, "title": "Daily Word"},
+    { "id": 1, "title": "Grammar"}
   ]
 }
