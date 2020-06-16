@@ -10,6 +10,6 @@
   ],
   "englishisfun": [
     { "id": 1, "title": "Daily Word", "open": 1},
-    { "id": 1, "title": "Grammar", "open": 0}
+    { "id": 2, "title": "Grammar", "open": 0}
   ]
 }
