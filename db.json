@@ -9,7 +9,14 @@
     { "id": "port", "body": "22500"}
   ],
   "englishisfun": [
-    { "id": 1, "title": "Daily Word", "open": 1},
+    { "id": 1, "title": "Daily Word", "open": 1
+    ,"w":5
+    ,"w1": "Unfortunately"
+    ,"w2": "I See"
+    ,"w3": "I have no clue"
+    ,"w4": "How do you do"
+    ,"w5": "Branch"
+    },
     { "id": 2, "title": "Grammar", "open": 0}
   ]
 }
