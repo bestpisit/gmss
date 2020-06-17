@@ -1,6 +1,6 @@
 {
   "program": [
-    { "id": 1, "title": "DoWhatISay", "open": 1, "port": 22500 },
+    { "id": 1, "title": "DoWhatISay", "open": 0, "port": 22500 },
     { "id": 2, "title": "PhysicIsFun", "open": 0 },
     { "id": 3, "title": "EnglishIsFun", "open": 1 }
   ],
