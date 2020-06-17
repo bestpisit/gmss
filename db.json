@@ -11,11 +11,11 @@
   "englishisfun": [
     { "id": 1, "title": "Daily Word", "open": 1
     ,"w":5
-    ,"w1": "Unfortunately"
-    ,"w2": "I See"
-    ,"w3": "I have no clue"
-    ,"w4": "How do you do"
-    ,"w5": "Branch"
+    ,"w1": "I have no clue/I have no idea/I`ve the faintest idea = I dont know."
+    ,"w2": "Much appreciate/You`re the best/Cheers = Thank you."
+    ,"w3": "Anytime/My pleasure/The pleasure is mine/No worries = Your welcome."
+    ,"w4": "How`s life?/How do you do?/How is everything? = How are you?."
+    ,"w5": "Not too shabby/I am doing well/I am alive = I am fine."
     },
     { "id": 2, "title": "Grammar", "open": 0}
   ]
