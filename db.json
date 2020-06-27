@@ -23,6 +23,9 @@
     { "id": 1, "title": "Daily Challenge", "open": 1
     ,"question1": "Daily : The radious of the earth is : R meters : and surrounds by a satellite which far from it`s land for : H meters : "
     ,"question2": "and the earth has it`s mass for : M kg : calculate the following expression : How much satellite`s velocity is? (m/s)"
+    ,"question3": ""
+    ,"question4": ""
+    ,"question5": ""
     ,"ans1": "√(GM/R)"
     ,"ans2": "√(GM/H)"
     ,"ans3": "R√(g/(R+H))"
