@@ -31,6 +31,10 @@
     ,"ans2": "√(GM/H)"
     ,"ans3": "R√(g/(R+H))"
     ,"ans4": "(R√g)/R+H)"
+    },
+    { "id": 2
+    , "title": "Learn Physics"
+    , "open": 1
     }
   ]
 }
