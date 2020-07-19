@@ -12,8 +12,8 @@
   "englishisfun": [
     { "id": 1, "title": "Daily Word", "open": 1
     ,"w":5
-    ,"w1": "Jedsadakron Kritsadakul Whose name is eb has been playing a game since he was young."
-    ,"w2": "Magnifying Glasses = a glass which can see anything bigger and more clear."
+    ,"w1": "Sub 'ThatDudeNamedTerk' thank you for supports my program,"
+    ,"w2": "By entering my program the history will be saved and will be send to my dashboard."
     ,"w3": "Satellite = a mechanical radio which move around the world."
     ,"w4": "Shabby = the feeling of illness."
     ,"w5": "Marching = to trample in rhythm."
@@ -35,7 +35,7 @@
     },
     { "id": 2
     , "title": "Learn Physics"
-    , "open": 1
+    , "open": 0
     }
   ]
 }
