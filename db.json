@@ -39,14 +39,24 @@
     }
   ],
   "PROM": [
-    { "id": 1, "title": "open","version": "0.1", "update_link": "www.google.com" },
-    { "id": 2, "title": "Account",
-     "1": "bestpisit",
-     "2": "Admin"
-    },
-    { "id": 3, "title": "Password",
-     "1": "123456",
-     "2": "Password"
+  {
+    "id": 1,
+    "title": "open",
+    "version": "0.1",
+    "update_link": "www.google.com"
+  },
+  {
+    "id": 2,
+    "Account": {
+      "1": {
+        "username": "bestpisit",
+        "password": "123456"
+      },
+      "2": {
+        "username": "Admin",
+        "password": "Password"
+      }
     }
-  ]
+  }
+]
 }
