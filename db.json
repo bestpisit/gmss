@@ -54,8 +54,7 @@
       },
       "2": {
         "username": "Admin",
-        "password": "Password",
-        "stat": "mod"
+        "password": "Password"
       }
     }
   }
