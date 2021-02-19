@@ -57,6 +57,19 @@
         "password": "Password"
       }
     }
+  },
+  {
+  "id": 3,
+  "Menu": {
+    "1": {
+      "name": "PROM",
+      "open": 1
+    },
+    "2": {
+      "name": "Palindrome Calculator",
+      "open": 1
+    }
   }
+}
 ]
 }
