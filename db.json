@@ -63,11 +63,13 @@
   "Menu": {
     "1": {
       "name": "PROM",
-      "open": 0
+      "open": 0,
+      "page": 3
     },
     "2": {
       "name": "Palindrome Calculator",
-      "open": 1
+      "open": 1,
+      "page": 4
     }
   }
 }
