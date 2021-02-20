@@ -63,7 +63,7 @@
   "Menu": {
     "1": {
       "name": "PROM",
-      "open": 1
+      "open": 0
     },
     "2": {
       "name": "Palindrome Calculator",
