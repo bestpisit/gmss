@@ -64,7 +64,8 @@
     "1": {
       "name": "PROM",
       "open": 0,
-      "page": 3
+      "page": 3,
+      "async_1": "Pimandek Residence Online Management"
     },
     "2": {
       "name": "Palindrome Calculator",
