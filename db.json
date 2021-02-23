@@ -71,6 +71,11 @@
       "name": "Palindrome Calculator",
       "open": 1,
       "page": 4
+    },
+    "3": {
+      "name": "About This Program",
+      "open": 1,
+      "page": 5
     }
   }
 }
