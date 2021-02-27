@@ -78,7 +78,7 @@
       "async_1": "Pimandek Residence Online Management"
     },
     "2": {
-      "name": "Palindrome Calculator",
+      "name": "Room Paid History",
       "open": 1,
       "page": 4
     },
@@ -86,6 +86,11 @@
       "name": "About This Program",
       "open": 1,
       "page": 5
+    },
+    "4": {
+      "name": "Palindrome Calculator",
+      "open": 1,
+      "page": 6
     }
   }
 }
