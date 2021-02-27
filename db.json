@@ -44,8 +44,7 @@
     "title": "open",
     "version": "0.1",
     "update_link": "www.google.com",
-    "room_max": 5,
-    "current_month":2
+    "room_max": 5
   },
   {
     "id": 2,
