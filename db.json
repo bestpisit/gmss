@@ -71,10 +71,10 @@
   "id": 3,
   "Menu": {
     "1": {
-      "name": "PROM",
+      "name": "PHOM",
       "open": 1,
       "page": 3,
-      "async_1": "Pimandek Residence Online Management"
+      "async_1": "--> PimanHouse Online Management <--"
     },
     "2": {
       "name": "Room Paid History",
