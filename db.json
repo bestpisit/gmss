@@ -51,19 +51,23 @@
     "Account": {
       "1": {
         "username": "bestpisit",
-        "password": "123456"
+        "password": "123456",
+        "rank": "Admin"
       },
       "2": {
         "username": "Admin",
-        "password": "Password"
+        "password": "Password",
+        "rank": "Admin"
       },
       "3": {
         "username": "Doung",
-        "password": "88888888"
+        "password": "88888888",
+        "rank": "Staff"
       },
       "4": {
         "username": "firstapivid",
-        "password": "987546"
+        "password": "987546",
+        "rank": "Guest"
       }
     }
   },
