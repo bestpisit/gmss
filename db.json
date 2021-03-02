@@ -72,7 +72,7 @@
   "Menu": {
     "1": {
       "name": "PROM",
-      "open": 0,
+      "open": 1,
       "page": 3,
       "async_1": "Pimandek Residence Online Management"
     },
