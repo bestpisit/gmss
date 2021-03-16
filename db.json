@@ -81,7 +81,7 @@
       "async_1": "--> PimanHouse Online Management <--"
     },
     "2": {
-      "name": "Room Paid History",
+      "name": "Activity Log",
       "open": 1,
       "page": 4
     },
