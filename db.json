@@ -102,5 +102,22 @@
     }
   }
 }
+],
+"MySpecialProgram": [
+  {
+  "id": 1,
+  "Menu": {
+    "1": {
+      "name": "ICode",
+      "open": 1,
+      "page": 3
+    },
+    "2": {
+      "name": "Messenger Hangout",
+      "open": 1,
+      "page": 4
+    }
+  }
+  }
 ]
 }
