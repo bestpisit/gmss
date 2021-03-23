@@ -96,8 +96,13 @@
     },
     "2": {
       "name": "Messenger Hangout",
-      "open": 1,
+      "open": 0,
       "page": 2
+    },
+    "3": {
+      "name": "About This Program",
+      "open": 1,
+      "page": 3
     }
   }
   }
