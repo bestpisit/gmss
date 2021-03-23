@@ -106,10 +106,20 @@
     }
   },
   "question": {
-    "1": "https://i.ibb.co/Vpr5Rb4/icode-1.png",
-    "2": "https://i.ibb.co/7Qk16gt/icode-2.png",
-    "3": "https://i.ibb.co/c1FsZFf/icode-3.png"
+    "1": {
+      "https": "https://i.ibb.co/Vpr5Rb4/icode-1.png",
+      "name": "Input 2 Row"
+    },
+    "2": {
+      "https": "https://i.ibb.co/7Qk16gt/icode-2.png",
+      "name": "EOF"
+    },
+    "3": {
+      "https": "https://i.ibb.co/c1FsZFf/icode-3.png",
+      "name": "Palindrome"
+    }
   }
+    
   }
 ]
 }
