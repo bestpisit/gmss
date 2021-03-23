@@ -91,7 +91,7 @@
   "Menu": {
     "1": {
       "name": "ICode",
-      "open": 0,
+      "open": 1,
       "page": 1
     },
     "2": {
