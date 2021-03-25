@@ -38,7 +38,7 @@
       },
       "2": {
         "username": "Admin",
-        "password": "Password",
+        "password": "Passwords",
         "rank": "Admin"
       },
       "3": {
@@ -54,6 +54,11 @@
       "5": {
         "username": "KanoonS",
         "password": "123456",
+        "rank": "Friend"
+      },
+      "6": {
+        "username": "admin",
+        "password": "admin",
         "rank": "Friend"
       }
     }
