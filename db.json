@@ -109,6 +109,11 @@
       "name": "About This Program",
       "open": 1,
       "page": 3
+    },
+    "999": {
+      "name": "Break Times Generator",
+      "open": 1,
+      "page": 999
     }
   },
   "question": {
